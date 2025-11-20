@@ -7,6 +7,7 @@ const steps = [
 export default function Home() {
   return (
     <main className="mx-auto flex min-h-screen w-full max-w-5xl flex-col gap-10 px-6 py-16">
+      <h1>Preview 테스트</h1>
       <section className="flex flex-col gap-4">
         <p className="text-sm font-semibold uppercase tracking-[0.08em] text-[#555]">
           CI/CD Practice
